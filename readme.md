@@ -9,6 +9,7 @@ A partir de ese dato resultan las siguientes fracciones:
 * 1/2 ciclo = 12890 años
 * 1/4 ciclo = 6445 años
 * 1/12 ciclo = 2148.33 años
+
 Siendo, por conveniencia:
 * 1/12 ciclo = 1 Era = 1 signo del Zodíaco
 * (12 signos del Zodíaco = 1 ciclo)
